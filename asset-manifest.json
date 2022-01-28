@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useStateHookRepo/static/css/main.4230b270.css",
+    "main.js": "/useStateHookRepo/static/js/main.302533ea.js",
+    "index.html": "/useStateHookRepo/index.html",
+    "main.4230b270.css.map": "/useStateHookRepo/static/css/main.4230b270.css.map",
+    "main.302533ea.js.map": "/useStateHookRepo/static/js/main.302533ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4230b270.css",
+    "static/js/main.302533ea.js"
+  ]
+}
